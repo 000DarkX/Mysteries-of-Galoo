@@ -28,5 +28,5 @@
     { "type":"Orge", "names": [""], "loot": ""},
     { "type":"Troglodyte", "names": [""], "loot": ""},
     { "type":"Vampire", "names": [""], "loot": ""},
-    { "type":"Zombie", "names": [""], "loot": ""},
+    { "type":"Zombie", "names": [""], "loot": ""}
 ]
